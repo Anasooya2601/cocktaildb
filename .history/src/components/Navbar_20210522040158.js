@@ -11,10 +11,9 @@ export default function Navbar() {
     const themeMode = theme === 'light' ? lightTheme : darkTheme;
   return (
     <ThemeProvider theme={themeMode}>
-    <GlobalStyles/>
- 
-    <nav className='navbar'>
     
+    <nav className='navbar'>
+    <GlobalStyles/>
     <div className='nav-center'>
     <Toggle theme={theme} toggleTheme={toggleTheme}/>
  <h1>Cocktaildb</h1>

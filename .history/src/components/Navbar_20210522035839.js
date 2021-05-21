@@ -12,12 +12,9 @@ export default function Navbar() {
   return (
     <ThemeProvider theme={themeMode}>
     <GlobalStyles/>
- 
     <nav className='navbar'>
-    
     <div className='nav-center'>
-    <Toggle theme={theme} toggleTheme={toggleTheme}/>
- <h1>Cocktaildb</h1>
+    <center> <h1>Cocktaildb</h1></center> 
 
       
         <ul className='nav-links'>
@@ -28,7 +25,7 @@ export default function Navbar() {
           <li>
             <Link to='/about'>about</Link>
           </li>
-         
+          <Toggle theme={theme} toggleTheme={toggleTheme}/>
         </ul>
       </div>
     
