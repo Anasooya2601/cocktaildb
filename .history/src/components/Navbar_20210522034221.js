@@ -14,9 +14,9 @@ export default function Navbar() {
     <GlobalStyles/>
     <nav className='navbar'>
     <div className='nav-center'>
-    
+    <center>  <h2>cocktaildb</h2></center> 
       <Toggle theme={theme} toggleTheme={toggleTheme}/>
-      <center> <h1>Cocktaildb</h1></center> 
+       
         <ul className='nav-links'>
          <li>
             <Link to='/'>home</Link>

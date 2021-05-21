@@ -1,7 +1,7 @@
 import React from 'react'
 import CocktailList from '../components/CocktailList'
 import SearchForm from '../components/SearchForm'
-import { GlobalStyles, lightTheme, darkTheme } from "../components/globalStyles";
+import { GlobalStyles, lightTheme, darkTheme } from "./components/globalStyles";
 import {ThemeProvider} from "styled-components";
 import  {DarkMode} from "../components/DarkMode";
 export default function Home() {
