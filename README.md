@@ -13,10 +13,7 @@ WebApp Link : https://appetizer2021.netlify.app
 <LI>React Router</LI>
 <LI> APIs </LI></br>
 
-**💅 STYLING**
 
-<LI>CSS</LI>
-<LI>🌙 DARK/ 🌞 LIGHT MODE : STYLED COMPONENTS</LI></BR>
 
 **COMPONENTS**
 <LI>Cocktail.js</LI>
@@ -35,4 +32,9 @@ WebApp Link : https://appetizer2021.netlify.app
 <LI>Error.js</LI>
 <LI>Home.js</LI>
 <LI>SingleCocktail.js</LI></br>
+
+**💅 STYLING**
+
+<LI>CSS</LI>
+<LI>🌙 DARK/ 🌞 LIGHT MODE : STYLED COMPONENTS</LI></BR>
 
