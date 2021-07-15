@@ -1,4 +1,4 @@
-# Cocktaildb Clone webApp 🍹🍹 using react js ⚛️  
+# Cocktaildb webApp 🍹🍹 using react js ⚛️  
 
 **ABOUT THE PROJECT🖊️**
 
